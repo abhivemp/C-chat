@@ -1,6 +1,6 @@
 # C-chat
 An implementation of chat rooms using POSIX and C
-
+NOTE: UPDATE ON README AND CODE CLEAN UP ON NEXT COMMIT
 
 ## Usage
 
